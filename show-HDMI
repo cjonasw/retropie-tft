@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo cp ./defaults/config.txt /boot/config.txt
