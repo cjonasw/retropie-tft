@@ -1,3 +1,7 @@
+# RetroPie on 2.8" TFT Screen
+
+![Pixel Raspberry](/theme-extras/raspberry.png "Pixel Raspberry")
+
 I have the Adafruit 2.8" TFT LCD (320x240 / 240x320).
 I run these scripts on a Retropie image to switch between HDMI and the TFT display.
 
