@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo cp ./GamesBackground.png /etc/emulationstation/themes/_PixelPerfect\ \(Default\)/_inc/images/GamesBackground.png
+sudo cp ./SystemBackground.png /etc/emulationstation/themes/_PixelPerfect\ \(Default\)/_inc/images/SystemBackground.png
